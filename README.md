@@ -1,5 +1,6 @@
-### Olá! Eu sou o Yang👋😁  
+## Olá! Eu sou o Yang👋😁  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang-araujo-neiva/)
+
 <hr/><hr/>
 
 ![Yang GitHub stats](https://github-readme-stats.vercel.app/api?username=NeivaYang&show_icons=true&theme=radical)
