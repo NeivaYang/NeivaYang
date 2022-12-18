@@ -1,12 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560035&height=160&section=header&text=Yang%20Araújo%20Neiva👽&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
-
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang-araujo-neiva/) -->
-<div align="center">
-  <a href="https://github.com/NeivaYang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeivaYang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeivaYang&layout=compact&langs_count=7&theme=radical"/>
-</div>
-    
+
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Underdog&size=30&duration=3500&pause=1200&color=C6245F&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
@@ -14,6 +8,12 @@
 
 </div>
 
+
+<div align="center">
+  <a href="https://github.com/NeivaYang">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeivaYang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeivaYang&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <!-- ![Yang GitHub stats](https://github-readme-stats.vercel.app/api?username=NeivaYang&show_icons=true&theme=radical) -->
 
 <h2 align="center">Tecnologias que uso em meu cotidiano 💻🌐</h2>    
