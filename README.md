@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560035&height=160&section=header&text=Yang%20Araújo%20Neiva👽&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang-araujo-neiva/) -->
-
 <div align="center">  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Underdog&size=30&duration=3500&pause=1200&color=C6245F&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
 
 </div>
-
 
 <div align="center">
   <a href="https://github.com/NeivaYang">
@@ -39,8 +37,6 @@
     <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=wh/ite" />
 </p>
     <!--     <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> -->
-    
-    
 <h2 align="center">Entre em contato:</h2>
 <p align="center">
     <a href = "mailto:yangaraujo.neiva@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
