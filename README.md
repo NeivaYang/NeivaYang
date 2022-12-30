@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=560035&height=160&section=header&text=Yang%20Araújo%20Neiva👽&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
-
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang-araujo-neiva/) -->
 <div align="center">  
 
