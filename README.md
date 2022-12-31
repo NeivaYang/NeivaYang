@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Underdog&size=30&duration=3500&pause=1200&color=C6245F&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack+Junior)](https://git.io/typing-svg)
 
-
 </div>
-
 <div align="center">
   <a href="https://github.com/NeivaYang">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeivaYang&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
