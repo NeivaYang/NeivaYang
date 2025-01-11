@@ -2,7 +2,7 @@
 <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yang-araujo-neiva/) -->
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Underdog&size=30&duration=3500&pause=1200&color=C6245F&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Underdog&size=30&duration=3500&pause=1200&color=C6245F&center=true&vCenter=true&width=500&lines=Software+Developer)](https://git.io/typing-svg)
 
 </div>
 <div align="center">
